@@ -4,10 +4,6 @@
 
 This project consists of a simple console-based Rock-Paper-Scissors game implemented in Python. Players can choose to compete against a robot (PvE) or another player (PvP). The game allows multiple rounds and provides feedback on the results of each match.
 
-## Repository
-
-You can find the repository at [Roshambo](https://github.com/AndrewAMur/Roshambo).
-
 ## Files
 
 - `pve.py`: Contains the logic for Player vs. Environment mode.
@@ -67,8 +63,8 @@ Feel free to fork the repository and make improvements or report issues. Pull re
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- Thanks to the contributors of Python's standard libraries, which made implementing this game straightforward and enjoyable!
+Thanks to the contributors of Python's standard libraries, which made implementing this game straightforward and enjoyable!
